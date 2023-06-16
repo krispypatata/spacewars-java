@@ -1,5 +1,6 @@
 # spacewars-java
-Mini-project in Java (CSMC 22)  <br />
+Mini-project in Java ()  <br />
+by: Keith Ginoel S. Gabinete  <br />
+Course: CSMC 22 at the
 Uiversity of the Philippines Los Baños <br />
-developed by: Keith Ginoel S. Gabinete  <br />
 A.Y. 2022-2023
