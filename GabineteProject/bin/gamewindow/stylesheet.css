@@ -1,0 +1,165 @@
+
+.root {
+	-fx-font-family: '04B03';
+	-fx-background-color: transparent;
+	-fx-text-fill: white;
+	-fx-font-size: 2em;
+}
+
+
+.label {
+	-fx-text-fill: white;
+}
+
+/* text-area */
+.text-area {
+    -fx-text-fill: white;
+    -fx-font-size: 1.875em;
+    -fx-background-color: black;
+    -fx-background-radius: 50 50 50 50;
+    -fx-border-color: white;
+    -fx-border-width: 5;
+	-fx-border-radius: 50 50 50 50;
+
+	-fx-scroll-bar-color: yellow;
+}
+
+.text-area .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.text-area .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+.text-area .content {
+	-fx-background-color: transparent;
+	/*-fx-background-radius: 50 50 50 50; */
+}
+
+.text-area:hover {
+    -fx-text-fill: cyan;
+    -fx-font-size: 1.875em;
+    -fx-background-color: #000418;
+    -fx-background-radius: 50 50 50 50;
+    -fx-border-color: cyan;
+    -fx-border-width: 5;
+	-fx-border-radius: 50 50 50 50;
+}
+
+/* text-area's vertical scrollbar */
+.text-area .scroll-bar:vertical {
+    /*-fx-pref-width: 5; */
+    -fx-opacity: 1;
+    -fx-background-color:transparent;
+    -fx-color: white;
+}
+
+.text-area:hover .scroll-bar:vertical {
+    /*-fx-pref-width: 5; */
+    -fx-color: cyan;
+}
+
+.text-area:hover .scroll-bar:vertical .thumb {
+    /*-fx-pref-width: 5; */
+    -fx-color: cyan;
+}
+
+/* Hide tex-area's scrollbar arrow indicators */
+.text-area .scroll-bar:vertical .increment-button {
+	-fx-background-color: transparent;
+}
+
+.text-area .scroll-bar:vertical .increment-arrow {
+	-fx-background-color: transparent;
+}
+
+.text-area .scroll-bar:vertical .decrement-button {
+	-fx-background-color: transparent;
+}
+
+.text-area .scroll-bar:vertical .decrement-arrow {
+	-fx-background-color: transparent;
+}
+
+/*Buttons*/
+.button {
+	-fx-min-height: 46px;
+	-fx-background-color: transparent;
+	-fx-text-fill: white;
+	-fx-font-size: 30px;
+	/*-fx-padding: 2, 20px, 2, 20px;*/
+}
+
+.button:hover {
+
+	-fx-background-color: cyan;
+	-fx-border-color: #000418;
+	-fx-border-width: 3px;
+	-fx-border-radius: 25px;
+	-fx-background-radius: 25px;
+	-fx-text-fill: #000418;
+}
+
+.button:pressed {
+	-fx-background-color: lime;
+	-fx-border-color: #000418;
+	-fx-border-width: 3px;
+	-fx-border-radius: 25px;
+	-fx-background-radius: 25px;
+	-fx-text-fill: #000418;
+}
+
+#menu-button:pressed {
+	-fx-background-color: yellow;
+	-fx-border-color: #000418;
+	-fx-border-width: 3px;
+	-fx-border-radius: 25px;
+	-fx-background-radius: 25px;
+	-fx-text-fill: #000418;
+}
+
+#instruction-image {
+	-fx-background-color: firebrick;
+}
+
+#instruction-text-area *.text {
+	-fx-text-alignment: justify;
+
+}
+
+#instructions-button:pressed {
+	-fx-background-color: coral;
+	-fx-border-color: #000418;
+	-fx-border-width: 3px;
+	-fx-border-radius: 25px;
+	-fx-background-radius: 25px;
+	-fx-text-fill: #000418;
+}
+
+#about-text-area *.text {
+	-fx-text-alignment: justify;
+}
+
+#about-button:pressed {
+	-fx-background-color: orange;
+	-fx-border-color: #000418;
+	-fx-border-width: 3px;
+	-fx-border-radius: 25px;
+	-fx-background-radius: 25px;
+	-fx-text-fill: #000418;
+}
+
+#about-prop-label:hover {
+	-fx-text-fill: cyan;
+}
+
+#exit-button:pressed {
+	-fx-background-color: orangered;
+	-fx-border-color: #000418;
+	-fx-border-width: 3px;
+	-fx-border-radius: 25px;
+	-fx-background-radius: 25px;
+	-fx-text-fill: #000418;
+}
+
