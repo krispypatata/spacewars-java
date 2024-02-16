@@ -9,7 +9,9 @@ A.Y. 2022-2023
 
 **Note:** This program is built with Java 1.8 and JavaFX 2.4.0, utilizing Eclipse 4.6.0 SDK.
 If you experience unusual or unexpected behavior when running the program on different versions of Java or Eclipse, you can download the necessary tool from the following link: [e(fx)clipse Installation](https://efxclipse.bestsolution.at/install.html#all-in-one).
-  
+
+**Instructions for Playing or Testing the Program:**
+To play or test the program, execute the ``Main.java`` file located in ``GabineteProject/src/main/``.
   
 ## <u>[Sample Demo (No Sound)](https://youtu.be/FVJK8ExIcGE)</u>  
 **Please note:** Apologies for the low resolution as the game window size is originally set to 600x800. Additionally, there may be some issues with scene placements in the game window, as it was initially developed on Windows 10 and has only been run for this demonstration on Windows 11.
