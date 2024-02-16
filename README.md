@@ -11,4 +11,4 @@ Game Title: Spacewars <br />
 If you experience unusual or unexpected behavior when running the program on different versions of Java or Eclipse, you can download the necessary tool from the following link: [e(fx)clipse Installation](https://efxclipse.bestsolution.at/install.html#all-in-one).
 
 ## [Sample Demo (no sound)](https://youtu.be/FVJK8ExIcGE) 
-Please note: Apologies for the low resolution as the game window size is originally set to 600x800. Additionally, there may be some issues with scene placements in this sample demo, as it was initially developed on Windows 10 and has only been run for this demonstration on Windows 11.
+Please note: Apologies for the low resolution as the game window size is originally set to 600x800. Additionally, there may be some issues with scene placements in the game window, as it was initially developed on Windows 10 and has only been run for this demonstration on Windows 11.
