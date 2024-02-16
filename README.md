@@ -16,14 +16,23 @@ If you experience unusual or unexpected behavior when running the program on dif
 
 
 ### Sample Images
-![Welcome Screen](/sample-images/main_window.png)
+#### Welcome Screen
+![Welcome Screen](/sample-images/main_window.png)  
 
-  
+#### About
+![About](/sample-images/about_window.png)  
 
-  
-![About](/sample-images/about_window.png)
-![Instructions](/sample-images/instructions_window.png)
-![Gameplay #1](/sample-images/gameplay_one.png)
-![Gameplay #2](/sample-images/gameplay_two.png)
-![EaStEr -_-](/sample-images/easter_effects.png)
-![GameOver](/sample-images/gameover.png)
+#### Instructions  
+![Instructions](/sample-images/instructions_window.png)  
+
+#### Gameplay #1  
+![Gameplay #1](/sample-images/gameplay_one.png)  
+
+#### Gameplay #2  
+![Gameplay #2](/sample-images/gameplay_two.png)  
+
+#### EaStEr Effects???  
+![EaStEr -_-](/sample-images/easter_effects.png)  
+
+#### Game Over  
+![Game Over](/sample-images/gameover.png)
