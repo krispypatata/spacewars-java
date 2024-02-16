@@ -15,7 +15,7 @@ If you experience unusual or unexpected behavior when running the program on dif
 **Please note:** Apologies for the low resolution as the game window size is originally set to 600x800. Additionally, there may be some issues with scene placements in the game window, as it was initially developed on Windows 10 and has only been run for this demonstration on Windows 11.
 
 
-### Sample Images
+### <u>Sample Images</u>  
 #### Welcome Screen
 ![Welcome Screen](/sample-images/main_window.png)  
 
