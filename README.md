@@ -1,5 +1,5 @@
 # spacewars-java
-**Mini-project** in **Java** <br />
+**Solo project** in **Java** <br />
 by: Keith Ginoel S. Gabinete  <br />
 Course: CSMC 22  <br />
 Uiversity of the Philippines Los Baños <br />
